@@ -1,4 +1,4 @@
-// DARKZONE-MD 
+// KOREXIA-MD 
 var commands = [];
 
 function cmd(info, func) {
